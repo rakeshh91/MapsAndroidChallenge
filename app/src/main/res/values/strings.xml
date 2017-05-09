@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="title_home">Adder</string>
+    <string name="launch_text_title">TimeSet Inc</string>
+    <string name="title_dashboard">Maps</string>
+    <string name="tag_launch_screen">Coding Exercise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result_label">Result = </string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="maps_button">Show Maps</string>
+    <string name="classcast_exception_listener">Hosting activity of the fragment forget to implement HandleNavigationListener</string>
+    <string name="no_permission">Location permission is not enabled</string>
+
+</resources>
